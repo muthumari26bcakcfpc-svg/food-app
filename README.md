@@ -1,4 +1,4 @@
-### ## 🍔 Food Delivery App – Project Description
+### 🍔 Food Delivery App – Project Description
 
 This **Food Delivery App** is a simple, colorful, and user-friendly mobile application designed to make ordering food **quick, easy, and convenient**. The app provides a smooth experience from browsing food items to successfully placing an order.
 
